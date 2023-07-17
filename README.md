@@ -9,7 +9,3 @@
 
 - 🌱 I’m currently learning: **how to make my life easier with DevOps (Docker, Github Actions), test driven development (Cypress)**
 
-<br />
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michal124&show_icons=true&locale=en&layout=compact" alt="michal124" /></p>
