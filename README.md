@@ -6,6 +6,3 @@
 - 👴 I previously worked on [Scout website](https://github.com/Michal124/scout-website)
 
 - 😍 I’m intrested in: **React (NextJS), Svelte, NodeJS, TypeScript, Tailwind**
-
-- 🌱 I’m currently learning: **how to make my life easier with DevOps (Docker, Github Actions), test driven development (Cypress)**
-
