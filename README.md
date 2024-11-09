@@ -1,8 +1,19 @@
-<h1>Hi 👋, I'm Michal</h1>
-<h3>I like to make fast, pretty looking and SEO friendly websites.</h3>
+<h1>Hi 👋, I'm Michal Tkáč</h1>
 
-- 👨‍💻 I’m currently working on **Student startup Eshop (code is proprietary)**
+- 👨‍🎓 I'm an IT student at POJ FM
 
-- 👴 I previously worked on [Scout website](https://github.com/Michal124/scout-website)
+- 🌐 Portfolio: https://m1chal-tkac.com
 
-- 😍 I’m intrested in: **React (NextJS), Svelte, NodeJS, TypeScript, Tailwind**
+
+<br/>
+
+
+<h4>My Tech Stack:</h4>
+
+<p align="left">
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Typescript" src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwind_css-black?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
